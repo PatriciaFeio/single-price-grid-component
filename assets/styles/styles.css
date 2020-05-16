@@ -21,7 +21,6 @@ body {
 .price-grid {
   max-width: 318px;
   margin: 8.75em 0 4.375em 0;
-  //margin: 4.375em 0;
   background-color: var(--white);
   border-radius: 0.5em;
   display: flex;
@@ -146,10 +145,6 @@ body {
   box-shadow: inset 16.5625em 0 0 0 var(--white);
 }
 
-footer {
-  padding-bottom: 1.875em;
-}
-
 .attribution {
   font-size: var(--font-XS);
   text-align: center;
@@ -215,9 +210,5 @@ footer {
 
   .btn:hover {
     box-shadow: inset 15em 0 0 0 #fff;
-  }
-
-  footer {
-    padding-top: 0em;
   }
 }
