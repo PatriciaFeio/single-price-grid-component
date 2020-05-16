@@ -140,6 +140,11 @@ body {
   transition: 0.6s;
 }
 
+.btn:focus {
+  box-shadow: 0 0 5px 0 var(--dark-cyan);
+  outline: none;
+}
+
 footer {
   padding-top: 1.875em;
   padding-bottom: 0.5em;
