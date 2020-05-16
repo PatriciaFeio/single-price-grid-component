@@ -1,0 +1,17 @@
+:root {
+  --cyan: hsl(179, 62%, 43%);
+  --light-cyan: hsl(179, 40%, 63%);
+  --bright-yellow: hsl(71, 73%, 54%);
+
+  --light-gray: hsl(204, 43%, 93%);
+  --grayish-blue: hsl(218, 22%, 67%);
+  --white: hsl(100, 100%, 100%);
+  --san-marino: hsl(228, 45%, 44%);
+
+  --font-XL: 1.875rem;
+  --font-L: 1.375rem;
+  --font-M: 1.25rem;
+  --font-default: 1rem;
+  --font-S: 0.875rem;
+  --font-XS: 0.688rem;
+}
